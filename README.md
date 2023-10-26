@@ -1,4 +1,8 @@
 # Basic-keylogger-with-python
+
+![keylogger](https://github.com/ahmed86-star/Basic-keylogger-with-python/assets/113064932/34d9724d-2785-49ee-8725-7e8e4471e3ae)
+
+
 A keylogger is a type of software that records and captures the keys pressed on a computer keyboard. It can run in the background without the user's knowledge, silently monitoring and logging every keystroke made on the keyboard.
 
 The basic idea behind a keylogger in Python is to use the appropriate libraries or modules to detect and capture keyboard events. These events include when a key is pressed or released.
